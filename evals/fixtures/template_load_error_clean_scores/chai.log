@@ -1,0 +1,1 @@
+ERROR:chai_lab.data.dataset.templates.load:[Unknown case - you should debug this!] Failed to load entity data for TemplateHit(query_pdb_id=A, hit_pdb_id=PROT2)

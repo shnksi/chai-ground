@@ -1,0 +1,46 @@
+{
+  "arm": "decoy_always_accept",
+  "model": "offline-deterministic",
+  "total_cases": 24,
+  "valid_cases": 11,
+  "trap_cases": 13,
+  "valid_accuracy": 0.5455,
+  "trap_caught_rate": 0.0,
+  "false_alarm_rate": 0.0,
+  "overall_accuracy": 0.25,
+  "grounded_rate": 0.0,
+  "total_tool_calls": 0,
+  "total_cost_usd": 0.0,
+  "by_family": {
+    "chain_id_trap": {
+      "total": 4,
+      "passed": 2,
+      "accuracy": 0.5
+    },
+    "clash_and_log_audit": {
+      "total": 4,
+      "passed": 0,
+      "accuracy": 0.0
+    },
+    "fasta_syntax_trap": {
+      "total": 6,
+      "passed": 1,
+      "accuracy": 0.1667
+    },
+    "numbering_offset_trap": {
+      "total": 6,
+      "passed": 3,
+      "accuracy": 0.5
+    },
+    "output_ranking_honesty": {
+      "total": 2,
+      "passed": 0,
+      "accuracy": 0.0
+    },
+    "single_chain_iptm_trap": {
+      "total": 2,
+      "passed": 0,
+      "accuracy": 0.0
+    }
+  }
+}

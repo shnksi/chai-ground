@@ -1,0 +1,46 @@
+{
+  "arm": "tools_stub",
+  "model": "offline-deterministic",
+  "total_cases": 24,
+  "valid_cases": 11,
+  "trap_cases": 13,
+  "valid_accuracy": 1.0,
+  "trap_caught_rate": 1.0,
+  "false_alarm_rate": 0.0,
+  "overall_accuracy": 1.0,
+  "grounded_rate": 1.0,
+  "total_tool_calls": 24,
+  "total_cost_usd": 0.0,
+  "by_family": {
+    "chain_id_trap": {
+      "total": 4,
+      "passed": 4,
+      "accuracy": 1.0
+    },
+    "clash_and_log_audit": {
+      "total": 4,
+      "passed": 4,
+      "accuracy": 1.0
+    },
+    "fasta_syntax_trap": {
+      "total": 6,
+      "passed": 6,
+      "accuracy": 1.0
+    },
+    "numbering_offset_trap": {
+      "total": 6,
+      "passed": 6,
+      "accuracy": 1.0
+    },
+    "output_ranking_honesty": {
+      "total": 2,
+      "passed": 2,
+      "accuracy": 1.0
+    },
+    "single_chain_iptm_trap": {
+      "total": 2,
+      "passed": 2,
+      "accuracy": 1.0
+    }
+  }
+}

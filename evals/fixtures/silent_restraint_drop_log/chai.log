@@ -1,0 +1,3 @@
+INFO:chai_lab.data.dataset.constraints.restraint_context:Loading 2 restraints...
+ERROR:chai_lab.data.features.generators.token_dist_restraint:Error Expected input_length=10 to be shorter than pad_to_length=4 for input='sequence_1' generating distance constraints
+INFO:chai_lab.chai1:Saved 2 predictions
